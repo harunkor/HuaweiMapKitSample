@@ -11,10 +11,11 @@ Map drawing: Adds location markers, map layers, overlays, and various shapes.
 <img src="https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_223111.png?raw=true" width="350" height="800">
 
 
-![alt text](https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_223132.png?raw=true)
+<img src="https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_223132.png?raw=true" width="350" height="800">
 
-![alt text](https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_224044.png?raw=true)
+<img src="https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_224044.png?raw=true" width="350" height="800">
+
+<img src="https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_224342.png?raw=true" width="350" height="800">
 
 
-![alt text](https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_224342.png?raw=true)
 
