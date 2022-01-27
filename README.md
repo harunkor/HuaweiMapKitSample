@@ -9,7 +9,7 @@ Map interaction: Controls the interaction gestures and buttons on the map.
 Map drawing: Adds location markers, map layers, overlays, and various shapes.
 
 
-###### settings.gradle
+#### settings.gradle
 ``` //  
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
