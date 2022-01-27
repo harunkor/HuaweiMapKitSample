@@ -8,7 +8,7 @@ Map display: Displays buildings, roads, water systems, and Points of Interest (P
 Map interaction: Controls the interaction gestures and buttons on the map.
 Map drawing: Adds location markers, map layers, overlays, and various shapes.
 
-<img src="https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_223111.png?raw=true" width="480" height="800">
+<img src="https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_223111.png?raw=true" width="350" height="800">
 
 
 ![alt text](https://github.com/harunkor/HuaweiMapKitSample/blob/master/Screenshot_20220127_223132.png?raw=true)
